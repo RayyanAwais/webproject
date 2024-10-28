@@ -1,0 +1,9 @@
+h1{
+    color: aliceblue;
+}
+body{
+    background-color: black;
+    display: flex;
+    height: 40px;
+    justify-self: center;
+}
